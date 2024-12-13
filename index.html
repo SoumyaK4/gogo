@@ -15,7 +15,7 @@ layout: home
     <div class="columns is-mobile">
         {% for i in (1..8) %}
         <div class="column {% if i > 4 %}is-hidden-mobile{% endif %}">
-            <img src="/gogo/assets/img/home/home_{{ i }}.jpeg">
+            <img src="{% site.url %}/assets/img/home/home_{{ i }}.jpeg">
         </div>
         {% endfor %}
     </div>

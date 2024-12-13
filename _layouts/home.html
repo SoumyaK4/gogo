@@ -8,22 +8,22 @@
 
   <title>{% if page.title %} {{ page.title }} | {% endif %} AIGP - Association of Indian Go Players</title>
 
-  <link rel="stylesheet" href="/gogo/assets/css/main.css">
+  <link rel="stylesheet" href="{% site.url %}/assets/css/main.css">
   </link>
-  <script type="text/javascript" src="/gogo/assets/js/bulma.js"></script>
+  <script type="text/javascript" src="{% site.url %}/assets/js/bulma.js"></script>
 
   <script type="application/ld+json">
             {
               "@context": "https://schema.org",
               "@type": "Organization",
-              "url": "https://soumyak4.in/gogo",
-              "logo": "https://soumyak4.in/gogo/assets/img/logo.png"
+              "url": "https://aigp.org.in",
+              "logo": "{% site.url %}/assets/img/logo.png"
             }
-        </script>
+  </script>
 
   <meta property="og:title"
     content="{% if page.title %} {{page.title}} | {% endif %}AIGP - Association of Indian Go Players" />
-  <meta property="og:image" content="/gogo/assets/img/logo.png" />
+  <meta property="og:image" content="{% site.url %}/assets/img/logo.png" />
   {% if page.description %}
   <meta property="og:description" content="{{ page.description }}">
   <meta content="{{ page.description }}" name="description" />
@@ -37,7 +37,7 @@
   <meta content="go, game, aigp, association, players, iaga, indo amateur go association, kolkata, west bengal, india"
     name="keywords" />
 
-  <link rel="shortcut icon" href="/gogo/assets/img/logo.png">
+  <link rel="shortcut icon" href="{% site.url %}/assets/img/logo.png">
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">

@@ -1,9 +1,9 @@
 ---
 title: Indian representation in KPMC 2023 and AWC 2023
 date: 2023-07-26T12:28:10.915Z
-img: /gogo/assets/img/news/whatsapp-image-2023-07-26-at-5.30.53-pm.jpeg
+img: /assets/img/news/whatsapp-image-2023-07-26-at-5.30.53-pm.jpeg
 description: Find out about Indian representatives at international tournaments!
-sidebar: "![](/gogo/assets/img/news/whatsapp-image-2023-07-26-at-5.30.53-pm.jpeg)"
+sidebar: "![](/assets/img/news/whatsapp-image-2023-07-26-at-5.30.53-pm.jpeg)"
 ---
 ## Korea Prime Minister Cup 2023
 
@@ -35,4 +35,4 @@ India was represented by:
 5. Supratic Gupta
 6. Pranjal Srivastava
 
-![](/gogo/assets/img/news/c1681309-c200494a.c817286400000000.png)
+![](/assets/img/news/c1681309-c200494a.c817286400000000.png)
