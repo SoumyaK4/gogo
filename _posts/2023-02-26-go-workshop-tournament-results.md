@@ -1,6 +1,6 @@
 ---
 title: Go Workshop and Tournament Results
-img: /assets/img/news/meeplecon_news_logo.jpg
+img: /gogo/assets/img/news/meeplecon_news_logo.jpg
 description:
     The Go workshops held over 2 days of Meeplecon was a big success. Ilia Trullin from Russia won the 19x19 tournament!
     Check out more pics, vids and the award ceremony inside
@@ -14,11 +14,11 @@ sidebar: |-
     Samon from Mumbai won the 9x9 tournament<br/><br/>
 ---
 
-![](/assets/img/meetups/meeplecon2023/IMG-20230218-WA0065.jpg)
-![](/assets/img/meetups/meeplecon2023/IMG-20230218-WA0070.jpg)
-![](/assets/img/meetups/meeplecon2023/IMG_20230219_122755.jpg)
-![](/assets/img/meetups/meeplecon2023/IMG_20230219_131702577_HDR.jpg)
-![](/assets/img/meetups/meeplecon2023/IMG_20230219_132005606.jpg)
-![](/assets/img/meetups/meeplecon2023/IMG_20230219_150954.jpg)
-![](/assets/img/meetups/meeplecon2023/IMG_20230219_152700097.jpg)
+![](/gogo/assets/img/meetups/meeplecon2023/IMG-20230218-WA0065.jpg)
+![](/gogo/assets/img/meetups/meeplecon2023/IMG-20230218-WA0070.jpg)
+![](/gogo/assets/img/meetups/meeplecon2023/IMG_20230219_122755.jpg)
+![](/gogo/assets/img/meetups/meeplecon2023/IMG_20230219_131702577_HDR.jpg)
+![](/gogo/assets/img/meetups/meeplecon2023/IMG_20230219_132005606.jpg)
+![](/gogo/assets/img/meetups/meeplecon2023/IMG_20230219_150954.jpg)
+![](/gogo/assets/img/meetups/meeplecon2023/IMG_20230219_152700097.jpg)
 

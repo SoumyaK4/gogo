@@ -1,14 +1,14 @@
 ---
 title: "19th KPMC & Indian Online League "
 date: 2024-08-03T13:54:05.777Z
-img: /assets/img/news/saran.jpeg
+img: /gogo/assets/img/news/saran.jpeg
 description: Saranraj Nambusubramaniyan to Represent India in the 19th Korea
   Prime Minister Cup, and Starting of the National Online League.
 sidebar: >-
   !﻿[](https://raw.githubusercontent.com/Shashwat986/aigp-jekyll/master/assets/img/news/saran.jpeg)
 
 
-  !﻿[](/assets/img/news/saran.jpeg)
+  !﻿[](/gogo/assets/img/news/saran.jpeg)
 ---
 ## I﻿ndian Online Quarterly Go League is Starting from 5th August 2024
 

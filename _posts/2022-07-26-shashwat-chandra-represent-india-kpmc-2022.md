@@ -1,6 +1,6 @@
 ---
 title: Shashwat Chandra to represent India in the 17th KPMC
-img: /assets/img/news/kpmc2022.png
+img: /gogo/assets/img/news/kpmc2022.png
 description: Congrats to Shashwat Chandra from Bangalore, Karnataka for winning the KPMC Indian Representative Selection Tournament, held from 22nd to 27th July, 2022. This year, the KPMC tournament will be held in-person in South Korea, and Shashwat Chandra will be representing India there. The decider match, between Karan Rawat and Shashwat Chandra was a nail-biter, and Shashwat won by a tiny 1.5 point margin to claim the victory.
 sidebar: |-
   #### Participants

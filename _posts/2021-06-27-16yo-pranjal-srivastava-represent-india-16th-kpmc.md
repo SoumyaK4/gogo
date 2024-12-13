@@ -1,6 +1,6 @@
 ---
 title: 16 year old Pranjal Srivastava to represent India at 16th KPMC
-img: /assets/img/news/kpmc_img.png
+img: /gogo/assets/img/news/kpmc_img.png
 description: Congrats to Pranjal Srivastava, a 16 year old from Bangalore, Karnataka, who defeated 5 others to win the KPMC Indian Representation Selection Tournament, held in June 2021. Pranjal will now go ahead and represent India at the 16th Korean Prime-Minister Cup, 2021.
 sidebar: |-
   #### Participants

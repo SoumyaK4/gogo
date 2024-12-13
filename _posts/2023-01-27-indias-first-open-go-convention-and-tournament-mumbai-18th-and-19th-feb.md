@@ -1,9 +1,9 @@
 ---
 title: India's First Open Go Convention and Tournament - Mumbai, 18th and 19th Feb
-img: /assets/img/meeplecon.jpg
+img: /gogo/assets/img/meeplecon.jpg
 description: The AIGP is proud to annouce that we are organising India's FIRST Open Go Convention in association with Cluedo and Meeplecon. The convention includes learning sessions the entire day on 18th February, followed by a tournament for all on the 19th of February.<br><br>Venue - Dublin Square, Phoenix Marketcity, Mumbai
 sidebar: |-
-  <img src="/assets/img/meeplecon-big.jpg">
+  <img src="/gogo/assets/img/meeplecon-big.jpg">
 ---
 #### Summary
 The AIGP is proud to annouce that we are organising India's FIRST Open Go Tournament in association with Cluedo and Meeplecon. The convention will be held on the 18th and 19th of February, in Phoenix Marketcity, Mumbai. Meeplecon also has 200+ other board games to enjoy!
