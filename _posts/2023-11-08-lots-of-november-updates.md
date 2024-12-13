@@ -1,7 +1,7 @@
 ---
 title: Lots of November updates
 date: 2023-11-08T06:19:12.390Z
-img: /assets/img/news/whatsapp-image-2023-10-30-at-8.55.05-pm.jpeg
+img: /gogo/assets/img/news/whatsapp-image-2023-10-30-at-8.55.05-pm.jpeg
 description: November activities
 sidebar: |-
   * October challenge winners

@@ -1,6 +1,6 @@
 ---
 title: Delhi and Mumbai meetups with Yeonwoo!
-img: /assets/img/news/yeonwoo_iit_group.jpeg
+img: /gogo/assets/img/news/yeonwoo_iit_group.jpeg
 description:
     We have had a very special guest from Korea visiting and arranged multiple Go community meetups around Yeonwoo's visit Check out the articles for lots of pictures!
 sidebar:
@@ -11,20 +11,20 @@ sidebar:
 
 ---
 #### Delhi Meetup 24/2
-![](/assets/img/meetups/yeonwoo/yeonwoo_delhi2.jpeg)
-![](/assets/img/meetups/yeonwoo/yeonwoo_delhi.jpeg)
-![](/assets/img/meetups/yeonwoo/yeonwoo_steeetgo.jpeg)
+![](/gogo/assets/img/meetups/yeonwoo/yeonwoo_delhi2.jpeg)
+![](/gogo/assets/img/meetups/yeonwoo/yeonwoo_delhi.jpeg)
+![](/gogo/assets/img/meetups/yeonwoo/yeonwoo_steeetgo.jpeg)
 
 #### Mumbai Meetup 27/2
-![](/assets/img/meetups/yeonwoo/yeonwoo_27_1.jpg)
-![](/assets/img/meetups/yeonwoo/yeonwoo_27_1.jpg27_2.jpg)
-![](/assets/img/meetups/yeonwoo/yeonwoo_27_1.jpg27_3.jpg)
-![](/assets/img/meetups/yeonwoo/yeonwoo_27_1.jpg27_4.jpg)
-![](/assets/img/meetups/yeonwoo/yeonwoo_iit_group.jpeg)
-![](/assets/img/meetups/yeonwoo/yeonwoo_iit.jpeg)
+![](/gogo/assets/img/meetups/yeonwoo/yeonwoo_27_1.jpg)
+![](/gogo/assets/img/meetups/yeonwoo/yeonwoo_27_1.jpg27_2.jpg)
+![](/gogo/assets/img/meetups/yeonwoo/yeonwoo_27_1.jpg27_3.jpg)
+![](/gogo/assets/img/meetups/yeonwoo/yeonwoo_27_1.jpg27_4.jpg)
+![](/gogo/assets/img/meetups/yeonwoo/yeonwoo_iit_group.jpeg)
+![](/gogo/assets/img/meetups/yeonwoo/yeonwoo_iit.jpeg)
 
 #### Mumbai Meetup 26/2
-![](/assets/img/meetups/yeonwoo/26_1.jpg)
-![](/assets/img/meetups/yeonwoo/26_2.jpg)
-![](/assets/img/meetups/yeonwoo/26_3.jpg)
+![](/gogo/assets/img/meetups/yeonwoo/26_1.jpg)
+![](/gogo/assets/img/meetups/yeonwoo/26_2.jpg)
+![](/gogo/assets/img/meetups/yeonwoo/26_3.jpg)
 

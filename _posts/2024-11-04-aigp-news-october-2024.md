@@ -1,7 +1,7 @@
 ---
 title: AIGP News October 2024
 date: 2024-11-04T14:36:57.493Z
-img: /assets/img/news/2nd-bangalore.jpeg
+img: /gogo/assets/img/news/2nd-bangalore.jpeg
 description: October has been quite busy for the Indian Baduk Scene. The first
   quarterly national tournament held online finished. We also had multiple
   offline workshops, tournaments and club meetups.
@@ -11,9 +11,9 @@ sidebar: >
   Baduk Championship held in South Korea**
 
 
-  ![2nd Bangalore Go Game Workshop and Tournament](/assets/img/news/2nd-bangalore.jpeg "2nd Bangalore Go Game Workshop and Tournament")
+  ![2nd Bangalore Go Game Workshop and Tournament](/gogo/assets/img/news/2nd-bangalore.jpeg "2nd Bangalore Go Game Workshop and Tournament")
 ---
-![Venue of the Bangalore Baduk Event](/assets/img/news/bangalore-venue.jpeg "Venue of the Bangalore Baduk Event")
+![Venue of the Bangalore Baduk Event](/gogo/assets/img/news/bangalore-venue.jpeg "Venue of the Bangalore Baduk Event")
 
 *Venue of the Bangalore Baduk Event*
 
